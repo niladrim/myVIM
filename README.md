@@ -1,0 +1,2 @@
+# myVIM
+my vim details
